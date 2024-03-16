@@ -1,4 +1,4 @@
-![I am a SQA Engineer](https://media.licdn.com/dms/image/D5616AQEg_VqzWdxFcA/profile-displaybackgroundimage-shrink_350_1400/0/1709308694126?e=1714608000&v=beta&t=z0zCMhpt_ngmG0KIxkORsfmlr0txnX0u9PEA1bXPm8E)
+![I am a SQA Engineer](https://media.licdn.com/dms/image/D5616AQE8I2Hv_38eIw/profile-displaybackgroundimage-shrink_350_1400/0/1710611137631?e=1715817600&v=beta&t=XzC_NkQ_Q1mdY4FAn1jqSZABv1bYZWp31mhlJcBWdN8)
 
 # Hi there 👋, I'm Kazi Kaiser
 ## I am a SQA Engineer
